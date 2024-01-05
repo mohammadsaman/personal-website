@@ -1,0 +1,52 @@
+body{
+  background-color: #FF4500;
+}
+.p{
+  color: black;
+  font-size: 35px;
+  font-family: cursive;
+  margin-left: 2em;
+  margin-top: 2em;
+  height: 4em;
+}
+ul {
+  color: black;
+  font-size: 35px;
+  font-family: cursive;  
+  margin-left: 2em;
+  margin-top: 1em;
+  height: 4em;
+}
+.card {
+  font-size: auto;
+  color: #FF4500;
+  background-color: black;
+  padding: 20px;
+  margin-left: 70px;
+  margin-top: 90px;
+  font-family: cursive; 
+}
+a:link, a:visited {
+  background-color: #FF4500;
+  color: black;
+  padding: 12px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  text-shadow: 0px 0px 10px 0px #FF4500;
+  
+}
+
+a:hover, a:active {
+  background-color: black;
+  color: #FF4500;
+  border-radius: 2em;
+  text-shadow: #FF4500;
+}
+footer{
+  color: black;
+  text-shadow: 0px 0px 10px 0px black;
+  font-size: x-large;
+  font-family: cursive;
+  margin-left: 65em;
+}

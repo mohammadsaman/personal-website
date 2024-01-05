@@ -1,0 +1,30 @@
+body{
+    background-color: #FF4500;
+}
+.hello{
+    font-size: 70px;
+    text-align: center;
+    margin: 1em 1em auto;
+    font-family: cursive;
+}
+
+button{
+    font-size: 20px;
+    background-color: black;
+    color: #FF4500;
+    width: 250px;
+    border: none;
+    box-shadow: 0px 0px 10px 0px black;
+    padding: 15px;
+    margin-left: 40%;
+    pointer-events: all;
+    font-family: cursive;
+}
+footer{
+    color: black;
+    text-shadow: 0px 0px 10px 0px black;
+    font-size: x-large;
+    font-family: cursive;
+    margin-left: 65em;
+    margin-top: 10em;
+  }
